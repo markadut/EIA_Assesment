@@ -2,6 +2,7 @@
 import pandas as pd
 import requests
 from datetime import date
+import matplotlib.pyplot as plt
 
 #calling the api key to connect to EIA API
 api_key = 'e1d99ebe2979507b12f16080b8acfb6d'
